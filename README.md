@@ -6,7 +6,7 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a Undergrad Software Engineering Student from NED University of Engineering & Technology
+- 🏫: I'm a Software Engineer, graduated from NED University of Engineering & Technology
 - 🔭: I’m Full Stack Website Developer.
 - 🌱: I’m currently learning Data Science and Machine Learning. 🧠💻🤖
   
